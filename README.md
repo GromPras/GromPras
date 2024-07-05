@@ -4,7 +4,7 @@
 
 👨‍💻 About Me:
 - 🌱 I’m learning Python and exploring its possibilities.
-- 🔭 I’m currently working on **Django Rest Framework** with this project [oc_projet-9](https://github.com/GromPras/oc-projet_10)
+- 🔭 I’m currently working on **Django Rest Framework** with this project [oc-projet_10](https://github.com/GromPras/oc-projet_10)
 
 🛠️ Tech Stack:
 Python | Django | Flask | HTML | CSS | JavaScript
