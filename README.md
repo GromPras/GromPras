@@ -4,7 +4,7 @@
 
 👨‍💻 About Me:
 - 🌱 I’m learning Python and exploring its possibilities.
-- 🔭 I’m currently working on **Flask** with this project [oc-projet_11](https://github.com/GromPras/oc-projet_11)
+- 🔭 I’m currently working on **Flask** with this project [oc-projet_11](https://github.com/GromPras/Python_Testing)
 
 🛠️ Tech Stack:
 Python | Django | Flask | HTML | CSS | JavaScript
