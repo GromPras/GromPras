@@ -4,7 +4,7 @@
 
 👨‍💻 About Me:
 - 🌱 I’m learning Python and exploring its possibilities.
-- 🔭 I’m currently working on **Refactoring a Django application** with this project [oc-projet_13](https://github.com/GromPras/oc-projet_13)
+- 🔭 I’m currently working on **Refactoring a Django application** and setting up a **CI/CD Pipeline** with this project [oc-projet_13](https://github.com/GromPras/oc-projet_13)
 
 🛠️ Tech Stack:
 Python | Django | Flask | HTML | CSS | JavaScript
